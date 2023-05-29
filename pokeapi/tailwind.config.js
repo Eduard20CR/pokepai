@@ -4,11 +4,34 @@ export default {
 	theme: {
 		extend: {
 			colors: {
+				// COLORS
 				primary: '#DB504A',
 				secondary: '#0081A7',
 				tertiary: '#698F3F',
 				black: '#070707',
-				white: '#FFFFFF'
+				white: '#FFFFFF',
+				// GRAYS
+				'gray-1': '#F2F2F2',
+				'gray-2': '#E6E6E6',
+				// POKEMON COLORS
+				normal: '#A8A77A',
+				fire: '#EE8130',
+				water: '#6390F0',
+				electric: '#F7D02C',
+				grass: '#7AC74C',
+				ice: '#96D9D6',
+				fighting: '#C22E28',
+				posion: '#A33EA1',
+				ground: '#E2BF65',
+				flying: '#A98FF3',
+				psychic: '#F95587',
+				bug: '#A6B91A',
+				rock: '#B6A136',
+				ghost: '#735797',
+				dragon: '#6F35FC',
+				dark: '#705746',
+				steel: '#B7B7CE',
+				fairy: '#D685AD'
 			},
 			fontSize: {
 				h1: ['2rem', '1.2'],
@@ -29,6 +52,9 @@ export default {
 			},
 			fontFamily: {
 				sans: ['Inter']
+			},
+			borderRadius: {
+				DEFAULT: '0.9375rem'
 			}
 		}
 	},
