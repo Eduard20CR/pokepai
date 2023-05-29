@@ -1,5 +1,5 @@
-<div class="fixed top-60 right-0 bg-primary text-white font-bold py-5 rounded-r-lg text-base">
-	TEST
+<div class="fixed top-60 right-0 bg-primary text-white font-bold py-5 rounded-r-xl text-base">
+	RANDOM
 </div>
 
 <style>
