@@ -10,7 +10,7 @@
 	<Navigation />
 	<HeaderImage />
 </header>
-<main class="mt-10">
+<main class="mt-16">
 	<Sticky />
 	<slot />
 </main>

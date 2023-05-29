@@ -1,4 +1,4 @@
-<div class="fixed top-60 right-0 bg-primary text-white font-bold py-5 rounded-r-xl text-base">
+<div class="fixed top-56 right-0 bg-primary text-white font-bold py-5 rounded-r-xl text-base">
 	RANDOM
 </div>
 
